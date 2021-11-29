@@ -11,6 +11,9 @@ To get started with the project you must download the notebook file and upload i
 
 You also need to take into account the requirements.txt file, which helps us to replicate the environment that was used to run the code. <br />
 
+The dataset used for this project is called "Rotten Tomatoes movies and critic reviews dataset" and it was uploaded to kaggle by Stefano Leone. The dataset contains the information of movies and reviews of the movie from the page called RottenTomatoes. Available at the following link <br />
+https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_critic_reviews.csv <br />
+
 Other sources that were useful for this project are:<br />
 https://aclanthology.org/2021.maiworkshop-1.10.pdf <br />
 https://icml.cc/2011/papers/399_icmlpaper.pdf <br />
