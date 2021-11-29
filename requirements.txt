@@ -1,0 +1,9 @@
+multimodal-transformers
+transformers
+torch
+pandas
+numpy
+matplotlib
+sklearn
+scipy
+datasets
